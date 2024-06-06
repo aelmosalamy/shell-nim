@@ -1,5 +1,3 @@
-<div direction="rtl">
 
-الي
+الي الworld الذي
 
-</div>
