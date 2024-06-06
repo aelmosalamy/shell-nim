@@ -1,4 +1,4 @@
-<div style="direction: rtl">
+<div direction="rtl">
 
 hey
 
